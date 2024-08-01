@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![Python](https://www.python.org/static/community_logos/python-logo.png)
-![Tableau](https://thewealthmosaic.s3.amazonaws.com/media/Logo_Tableau_Software.png)
+- ![Tableau](https://thewealthmosaic.s3.amazonaws.com/media/Logo_Tableau_Software.png)
   
 ## Projects
 - [Superstore Data Exploration ](https://github.com/udayevol/Project-1-Superstore-Data-Exploration-SQL-): Led sales analysis using SQL and created Power BI dashboard, improved decision-making.
