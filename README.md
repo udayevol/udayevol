@@ -16,8 +16,10 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
   
 ## Projects
 - [Superstore Data Exploration ](https://github.com/udayevol/Project-1-Superstore-Data-Exploration-SQL-): Led sales analysis using SQL and created Power BI dashboard, improved decision-making.
-- [Netflix Insights Trends and Recommendations](https://github.com/udayevol/Project-2-Netflix-Insights-Unveiling-Trends-and-Recommendations): Created Python and Power BI dashboards for Netflix data analysis, boosting strategic planning and user engagement.
+- [Netflix Insights Trends and Recommendations](https://github.com/udayevol/Project-2-Netflix-Insights-Unveiling-Trends-and-Recommendations): Developed Python and Power BI dashboards, enhancing Netflix analysis and engagement
 - [COVID-19 Insights India](https://github.com/udayevol/Project-3-COVID-19-Insights-India): Built Power BI dashboard for COVID-19 in India, enhancing insights.
 - [Video Games Sales Analysis](https://github.com/udayevol/Project-4-Video-Games-sales-Analysis): Developed Python and Tableau dashboards to analyze video game sales trends.
 - [Airline-Passenger-Satisfaction](https://github.com/udayevol/Project-5-Airline-Passenger-Satisfaction):Created dashboards revealing video game sales trends and publisher dominance.
+
+
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
