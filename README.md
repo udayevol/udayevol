@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 - 🎓 Bachelor of Commerce
 ## Tools and Languages
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PowerBI](https://signagelive.com/wp-content/uploads/2024/03/PowerBI_515.png)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
 ![Tableau](https://thewealthmosaic.s3.amazonaws.com/media/Logo_Tableau_Software.png)
