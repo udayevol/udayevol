@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 ## About Me
 
 - 💼 Aspiring Data Analyst
-- 🌱 Currently pursuing the Google Data Analytics Certification
+- 🌱 Currently pursuing Data Analytics Certification
 - 🎓 Bachelor of Commerce
 ## Tools and Languages
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
