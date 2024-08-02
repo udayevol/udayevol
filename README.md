@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 - 🌱 Currently pursuing Data Analytics Certification
 - 🎓 Bachelor of Commerce
 ## Tools and Languages
-- ![Excel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzroujY4sVqUgVzbG8IltQIA_Ni2wEGDZe0w&s)
+- ![Excel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKy--HTqH28ArZCCaRSlDlew9g6FKq4-KVw&s)
 - ![PowerBI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8CNaqDD1OHHQ05QLzirHYQjmbjPTL4UhdUg&s)
 - ![MySQL](https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-1.png)
 - ![Python](https://www.python.org/static/community_logos/python-logo.png)
