@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 ## Tools and Languages
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![MySQL](https://icon2.cleanpng.com/20180727/oi/kisspng-mysql-database-sperrverfahren-technology-web-design-5b5b1a8caaf345.5093980515326972287002.jpg)
 - ![Python](https://www.python.org/static/community_logos/python-logo.png)
 - ![Tableau](https://thewealthmosaic.s3.amazonaws.com/media/Logo_Tableau_Software.png)
   
