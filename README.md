@@ -22,5 +22,11 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 - [Airline-Passenger-Satisfaction](https://public.tableau.com/app/profile/chalamala.uday/viz/Project5AirlinePassengerSatisfaction/Dashboard1):Created dashboards revealing video game sales trends and publisher dominance.
 
 ## Certifications
-- [Data Analytics Consulting Virtual Internship ­Forage(KPMG)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_3vxGxa66x45SnTZ3r_1707851565586_completion_certificate.pdf):
+- [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_3vxGxa66x45SnTZ3r_1707851565586_completion_certificate.pdf):KPMG Data Analytics Consulting Virtual Internship Forage
+- [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_3vxGxa66x45SnTZ3r_1709844452129_completion_certificate.pdf):PWC Power BI Job Simulation Forage
+- [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase%20Corporate/XiuvjcwqWRqH9oy38_JPMorgan%20Chase%20&%20Co._3vxGxa66x45SnTZ3r_1710095440693_completion_certificate.pdf): JPMorgan Chase & Co. - Excel Skills Job Simulation Forage
+- [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_3vxGxa66x45SnTZ3r_1716378616406_completion_certificate.pdf):Accenture Data Analytics and Visualization Job Simulation Forage
+- [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_3vxGxa66x45SnTZ3r_1716390611559_completion_certificate.pdf):Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation Forage
+
+
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
