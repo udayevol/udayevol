@@ -1,4 +1,4 @@
-**Hi there, I'm Uday! 👋**
+## Hi there, I'm Uday! 👋
 
 Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python, SQL, Excel, and Tableau, currently honing skills in data analysis. Known for exceptional customer service and technical troubleshooting abilities, backed by a solid background as a Senior Associate in technical support and banking sectors. Certified in PwC Switzerland's Power BI, KPMG AU's Data Analytics, Quantium's Data Analytics, and JPMorgan Chase & Co.'s Excel Skills. Dedicated to delivering outstanding service, with a customer-centric approach and excellent communication skills. Actively seeking opportunities to leverage expertise in Hyderabad, Telangana, India.
 
