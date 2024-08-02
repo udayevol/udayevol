@@ -21,5 +21,6 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 - [Video Games Sales Analysis](https://public.tableau.com/app/profile/chalamala.uday/viz/Project4VideoGamessalesAnalysis/Dashboard1): Developed Python and Tableau dashboards to analyze video game sales trends.
 - [Airline-Passenger-Satisfaction](https://public.tableau.com/app/profile/chalamala.uday/viz/Project5AirlinePassengerSatisfaction/Dashboard1):Created dashboards revealing video game sales trends and publisher dominance.
 
-
+## Certifications
+- [Data Analytics Consulting Virtual Internship ­Forage(KPMG)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_3vxGxa66x45SnTZ3r_1707851565586_completion_certificate.pdf):
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
