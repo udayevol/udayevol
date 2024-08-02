@@ -29,4 +29,4 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 - [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_3vxGxa66x45SnTZ3r_1716390611559_completion_certificate.pdf):Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation Forage
 
 
-Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
+Feel free to explore my repositories or just to say hi! 😊
