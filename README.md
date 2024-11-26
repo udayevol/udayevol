@@ -13,6 +13,7 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 - ![MySQL](https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-1.png)
 - ![Python](https://www.python.org/static/community_logos/python-logo.png)
 - ![Tableau](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092012/tableau_0.png?itok=1gtJdfeq)
+- ![Tableau](https://www.slideshare.net/chalamalauday/presentations)
   
 ## Projects
 - [Superstore Data Exploration ](https://github.com/udayevol/Project-1-Superstore-Data-Exploration-SQL-): Led sales analysis using SQL and created Power BI dashboard, improved decision-making.
