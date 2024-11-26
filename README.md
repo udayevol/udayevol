@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Ambitious Data Analyst with proficiency in Python,
 - [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_3vxGxa66x45SnTZ3r_1716378616406_completion_certificate.pdf): Accenture Data Analytics and Visualization Job Simulation Forage
 - [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_3vxGxa66x45SnTZ3r_1716390611559_completion_certificate.pdf): Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation Forage
 
-  ## Presentations
+## Presentations
 - [View Credentials](https://www.slideshare.net/slideshow/ikjdnvilzbxkcvzilxhbvijsdnvilbzsidvkbziv/273587017): Superstore Dashboard Analysis Presentation
 - [View Credentials](https://www.slideshare.net/slideshow/netflix-data-exploration-insights-pptx/273583908): Netflix Data Exploration & Insights Presentation
 - [View Credentials](https://www.slideshare.net/slideshow/covid-19-analysis-in-india-presentation-pptx/273584394): COVID-19 Analysis in India Presentation
